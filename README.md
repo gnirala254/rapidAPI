@@ -1,4 +1,4 @@
-# rapidAPI
+# yahoo financial and news rapidAPI
 use of yahoo financial and get news rapidAPI 
 
 to use it clone the repo and do
